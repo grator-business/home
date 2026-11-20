@@ -1,6 +1,6 @@
 # Grator — Marca
 
-Guía breve de la marca de **Grator Business SL** (Valencia). La misma guía está publicada en [www.grator.net/brand](https://www.grator.net/brand/) (inglés) y [www.grator.net/es/brand](https://www.grator.net/es/brand/) (español).
+Guía breve de la marca de **Grator Business SL** (Valencia). Se conserva en el repositorio y no se publica en la web.
 
 Los archivos viven en `public/brand/` y se sirven en `https://www.grator.net/public/brand/`. Las demás aplicaciones de Grator pueden copiarlos del repositorio o enlazarlos.
 

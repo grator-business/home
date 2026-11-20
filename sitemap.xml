@@ -13,16 +13,4 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.grator.net/es/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.grator.net/"/>
   </url>
-  <url>
-    <loc>https://www.grator.net/brand/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.grator.net/brand/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.grator.net/es/brand/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.grator.net/brand/"/>
-  </url>
-  <url>
-    <loc>https://www.grator.net/es/brand/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.grator.net/brand/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.grator.net/es/brand/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.grator.net/brand/"/>
-  </url>
 </urlset>
