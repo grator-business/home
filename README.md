@@ -6,10 +6,8 @@ Sitio estático, sin framework y sin build. Inglés por defecto, español en `/e
 
 - `/` — Inicio (EN)
 - `/es/` — Inicio (ES)
-- `/brand/` — Marca (EN)
-- `/es/brand/` — Marca (ES)
 - `public/brand/` — Logo y archivos reutilizables
-- `BRAND.md` — La misma guía, en el repositorio
+- `BRAND.md` — Guía de marca, solo en el repositorio (no se publica)
 
 ## Despliegue
 
